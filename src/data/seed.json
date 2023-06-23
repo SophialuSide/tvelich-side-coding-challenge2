@@ -1,0 +1,1010 @@
+[
+  {
+    "id": 1,
+    "address": "74434 East Sweet Bottom Br #18393",
+    "price": 20714261,
+    "bedrooms": 2,
+    "bathrooms": 5,
+    "type": null
+  },
+  {
+    "id": 2,
+    "address": "8369 West MAJESTY STREET Path #1765",
+    "price": 9375751,
+    "bedrooms": 3,
+    "bathrooms": 6,
+    "type": null
+  },
+  {
+    "id": 3,
+    "address": "90678 South VELLUM Extension #6A2",
+    "price": 12104869,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "type": null
+  },
+  {
+    "id": 4,
+    "address": "34149 East GRANICUS Mews #I-7",
+    "price": 7857291,
+    "bedrooms": 6,
+    "bathrooms": 2,
+    "type": "Condominium"
+  },
+  {
+    "id": 5,
+    "address": "21366 South Creek Mist Bluff #I-7",
+    "price": 13685168,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "type": "Condominium"
+  },
+  {
+    "id": 6,
+    "address": "89810 East Running Doe Knoll #709S",
+    "price": 20764446,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "type": "Townhouse"
+  },
+  {
+    "id": 7,
+    "address": "96294 West BEAD GRASS TER Gate #4059",
+    "price": 17450668,
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "type": null
+  },
+  {
+    "id": 8,
+    "address": "39781 West Old Woman Springs Rd Drive #APT 2B",
+    "price": 10114945,
+    "bedrooms": 6,
+    "bathrooms": 2,
+    "type": "Condominium"
+  },
+  {
+    "id": 9,
+    "address": "172 North British Colony Boulevard #27",
+    "price": 9014063,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "type": null
+  },
+  {
+    "id": 10,
+    "address": "22690 West Hunters Hollow Garden #LPH-1",
+    "price": 9199166,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "type": "Townhouse"
+  },
+  {
+    "id": 11,
+    "address": "12763 South 33 STREET Trce #APT 2B",
+    "price": 7633393,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "type": null
+  },
+  {
+    "id": 12,
+    "address": "68385 North Giaramita Row #6A2",
+    "price": 9243871,
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 13,
+    "address": "46761 West Deep Step Meadow #M0606",
+    "price": 23507305,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 14,
+    "address": "63336 East EVERETT PL Mews #E-1002",
+    "price": 16194569,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "type": "Condominium"
+  },
+  {
+    "id": 15,
+    "address": "11416 North Tiger Horse Extension #783",
+    "price": 24266835,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 16,
+    "address": "36992 West Georgetown(lot 18) Boulevard #C 104",
+    "price": 6070556,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "type": "Condominium"
+  },
+  {
+    "id": 17,
+    "address": "28698 West Viewlake Knolls #2930",
+    "price": 2190359,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "type": "Townhouse"
+  },
+  {
+    "id": 18,
+    "address": "56585 South SW 368 ST& SW 214 AV Groves #6A2",
+    "price": 21445988,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "type": null
+  },
+  {
+    "id": 19,
+    "address": "14463 West 8710 GLEN ARBOR RD Trace #Upper",
+    "price": 13564260,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "type": "Condominium"
+  },
+  {
+    "id": 20,
+    "address": "55679 East Puette Link #27536",
+    "price": 6054541,
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "type": null
+  },
+  {
+    "id": 21,
+    "address": "52876 North Newark Blvd B Trace #2035",
+    "price": 18065342,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "type": "Townhouse"
+  },
+  {
+    "id": 22,
+    "address": "91910 East Somerset N. Knolls #783",
+    "price": 13717919,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 23,
+    "address": "86469 West Zenith Cliff #F16",
+    "price": 20683471,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 24,
+    "address": "84286 North Accors Ave. Creek #16-21",
+    "price": 4894911,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 25,
+    "address": "26532 North 240 Old River LN Fwy #Upper",
+    "price": 14008098,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 26,
+    "address": "30422 West Creek Mist Harbor #18393",
+    "price": 15959723,
+    "bedrooms": 6,
+    "bathrooms": 4,
+    "type": null
+  },
+  {
+    "id": 27,
+    "address": "70490 North FAIRHAVEN PL Creek #13906",
+    "price": 8958673,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 28,
+    "address": "1824 North EFFIE Circle #PH-G",
+    "price": 16742578,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 29,
+    "address": "32644 South DEERCLIFF Junction #B720 C",
+    "price": 2652197,
+    "bedrooms": 6,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 30,
+    "address": "18652 East CALLE SOL Row #527-2",
+    "price": 17997931,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "type": "Townhouse"
+  },
+  {
+    "id": 31,
+    "address": "10915 South Bannister Way Garden #A",
+    "price": 19237330,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 32,
+    "address": "23813 East Rush Creek Way Estates #16-21",
+    "price": 13809040,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "type": "Condominium"
+  },
+  {
+    "id": 33,
+    "address": "32904 East South Bayfront Junction #C 104",
+    "price": 15838148,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "type": null
+  },
+  {
+    "id": 34,
+    "address": "57691 West MAJESTY STREET Hts #3-1804",
+    "price": 24925949,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "type": null
+  },
+  {
+    "id": 35,
+    "address": "89419 North US HWY. 301 Pl #527-2",
+    "price": 21854919,
+    "bedrooms": 6,
+    "bathrooms": 6,
+    "type": "Condominium"
+  },
+  {
+    "id": 36,
+    "address": "70446 West ARABIAN WAY Oval #1765",
+    "price": 6219566,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "type": "Townhouse"
+  },
+  {
+    "id": 37,
+    "address": "31045 South Maggiore Ln. Row #APT 2B",
+    "price": 18879583,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 38,
+    "address": "32738 South VISTA MADERA Lane #F16",
+    "price": 2893021,
+    "bedrooms": 2,
+    "bathrooms": 6,
+    "type": "Townhouse"
+  },
+  {
+    "id": 39,
+    "address": "30662 South Perry Hill Falls #205-C",
+    "price": 20128158,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 40,
+    "address": "76520 North MAXEY HILL Boulevard #1795",
+    "price": 9878825,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "type": "Townhouse"
+  },
+  {
+    "id": 41,
+    "address": "2976 North British Colony Lndg #12306",
+    "price": 17236623,
+    "bedrooms": 3,
+    "bathrooms": 5,
+    "type": "Townhouse"
+  },
+  {
+    "id": 42,
+    "address": "20349 North LOST SPRING Fwy #27536",
+    "price": 1066737,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "type": "Townhouse"
+  },
+  {
+    "id": 43,
+    "address": "74434 East Sweet Bottom Br #18393",
+    "price": 20714261,
+    "bedrooms": 2,
+    "bathrooms": 5,
+    "type": null
+  },
+  {
+    "id": 44,
+    "address": "8369 West MAJESTY STREET Path #1765",
+    "price": 9375751,
+    "bedrooms": 3,
+    "bathrooms": 6,
+    "type": null
+  },
+  {
+    "id": 45,
+    "address": "90678 South VELLUM Extension #6A2",
+    "price": 12104869,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "type": null
+  },
+  {
+    "id": 46,
+    "address": "34149 East GRANICUS Mews #I-7",
+    "price": 7857291,
+    "bedrooms": 6,
+    "bathrooms": 2,
+    "type": "Condominium"
+  },
+  {
+    "id": 47,
+    "address": "21366 South Creek Mist Bluff #I-7",
+    "price": 13685168,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "type": "Condominium"
+  },
+  {
+    "id": 48,
+    "address": "89810 East Running Doe Knoll #709S",
+    "price": 20764446,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "type": "Townhouse"
+  },
+  {
+    "id": 49,
+    "address": "96294 West BEAD GRASS TER Gate #4059",
+    "price": 17450668,
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "type": null
+  },
+  {
+    "id": 50,
+    "address": "39781 West Old Woman Springs Rd Drive #APT 2B",
+    "price": 10114945,
+    "bedrooms": 6,
+    "bathrooms": 2,
+    "type": "Condominium"
+  },
+  {
+    "id": 51,
+    "address": "172 North British Colony Boulevard #27",
+    "price": 9014063,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "type": null
+  },
+  {
+    "id": 52,
+    "address": "22690 West Hunters Hollow Garden #LPH-1",
+    "price": 9199166,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "type": "Townhouse"
+  },
+  {
+    "id": 53,
+    "address": "12763 South 33 STREET Trce #APT 2B",
+    "price": 7633393,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "type": null
+  },
+  {
+    "id": 54,
+    "address": "68385 North Giaramita Row #6A2",
+    "price": 9243871,
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 55,
+    "address": "46761 West Deep Step Meadow #M0606",
+    "price": 23507305,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 56,
+    "address": "63336 East EVERETT PL Mews #E-1002",
+    "price": 16194569,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "type": "Condominium"
+  },
+  {
+    "id": 57,
+    "address": "11416 North Tiger Horse Extension #783",
+    "price": 24266835,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 58,
+    "address": "36992 West Georgetown(lot 18) Boulevard #C 104",
+    "price": 6070556,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "type": "Condominium"
+  },
+  {
+    "id": 59,
+    "address": "28698 West Viewlake Knolls #2930",
+    "price": 2190359,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "type": "Townhouse"
+  },
+  {
+    "id": 60,
+    "address": "56585 South SW 368 ST& SW 214 AV Groves #6A2",
+    "price": 21445988,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "type": null
+  },
+  {
+    "id": 61,
+    "address": "14463 West 8710 GLEN ARBOR RD Trace #Upper",
+    "price": 13564260,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "type": "Condominium"
+  },
+  {
+    "id": 62,
+    "address": "55679 East Puette Link #27536",
+    "price": 6054541,
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "type": null
+  },
+  {
+    "id": 63,
+    "address": "52876 North Newark Blvd B Trace #2035",
+    "price": 18065342,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "type": "Townhouse"
+  },
+  {
+    "id": 64,
+    "address": "91910 East Somerset N. Knolls #783",
+    "price": 13717919,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 65,
+    "address": "86469 West Zenith Cliff #F16",
+    "price": 20683471,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 66,
+    "address": "84286 North Accors Ave. Creek #16-21",
+    "price": 4894911,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 67,
+    "address": "26532 North 240 Old River LN Fwy #Upper",
+    "price": 14008098,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 68,
+    "address": "30422 West Creek Mist Harbor #18393",
+    "price": 15959723,
+    "bedrooms": 6,
+    "bathrooms": 4,
+    "type": null
+  },
+  {
+    "id": 69,
+    "address": "70490 North FAIRHAVEN PL Creek #13906",
+    "price": 8958673,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 70,
+    "address": "1824 North EFFIE Circle #PH-G",
+    "price": 16742578,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 71,
+    "address": "32644 South DEERCLIFF Junction #B720 C",
+    "price": 2652197,
+    "bedrooms": 6,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 72,
+    "address": "18652 East CALLE SOL Row #527-2",
+    "price": 17997931,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "type": "Townhouse"
+  },
+  {
+    "id": 73,
+    "address": "10915 South Bannister Way Garden #A",
+    "price": 19237330,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 74,
+    "address": "23813 East Rush Creek Way Estates #16-21",
+    "price": 13809040,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "type": "Condominium"
+  },
+  {
+    "id": 75,
+    "address": "32904 East South Bayfront Junction #C 104",
+    "price": 15838148,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "type": null
+  },
+  {
+    "id": 76,
+    "address": "57691 West MAJESTY STREET Hts #3-1804",
+    "price": 24925949,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "type": null
+  },
+  {
+    "id": 77,
+    "address": "89419 North US HWY. 301 Pl #527-2",
+    "price": 21854919,
+    "bedrooms": 6,
+    "bathrooms": 6,
+    "type": "Condominium"
+  },
+  {
+    "id": 78,
+    "address": "70446 West ARABIAN WAY Oval #1765",
+    "price": 6219566,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "type": "Townhouse"
+  },
+  {
+    "id": 79,
+    "address": "31045 South Maggiore Ln. Row #APT 2B",
+    "price": 18879583,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 80,
+    "address": "32738 South VISTA MADERA Lane #F16",
+    "price": 2893021,
+    "bedrooms": 2,
+    "bathrooms": 6,
+    "type": "Townhouse"
+  },
+  {
+    "id": 81,
+    "address": "30662 South Perry Hill Falls #205-C",
+    "price": 20128158,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 82,
+    "address": "76520 North MAXEY HILL Boulevard #1795",
+    "price": 9878825,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "type": "Townhouse"
+  },
+  {
+    "id": 83,
+    "address": "2976 North British Colony Lndg #12306",
+    "price": 17236623,
+    "bedrooms": 3,
+    "bathrooms": 5,
+    "type": "Townhouse"
+  },
+  {
+    "id": 84,
+    "address": "20349 North LOST SPRING Fwy #27536",
+    "price": 1066737,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "type": "Townhouse"
+  },
+  {
+    "id": 85,
+    "address": "74434 East Sweet Bottom Br #18393",
+    "price": 20714261,
+    "bedrooms": 2,
+    "bathrooms": 5,
+    "type": null
+  },
+  {
+    "id": 86,
+    "address": "8369 West MAJESTY STREET Path #1765",
+    "price": 9375751,
+    "bedrooms": 3,
+    "bathrooms": 6,
+    "type": null
+  },
+  {
+    "id": 87,
+    "address": "90678 South VELLUM Extension #6A2",
+    "price": 12104869,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "type": null
+  },
+  {
+    "id": 88,
+    "address": "34149 East GRANICUS Mews #I-7",
+    "price": 7857291,
+    "bedrooms": 6,
+    "bathrooms": 2,
+    "type": "Condominium"
+  },
+  {
+    "id": 89,
+    "address": "21366 South Creek Mist Bluff #I-7",
+    "price": 13685168,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "type": "Condominium"
+  },
+  {
+    "id": 90,
+    "address": "89810 East Running Doe Knoll #709S",
+    "price": 20764446,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "type": "Townhouse"
+  },
+  {
+    "id": 91,
+    "address": "96294 West BEAD GRASS TER Gate #4059",
+    "price": 17450668,
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "type": null
+  },
+  {
+    "id": 92,
+    "address": "39781 West Old Woman Springs Rd Drive #APT 2B",
+    "price": 10114945,
+    "bedrooms": 6,
+    "bathrooms": 2,
+    "type": "Condominium"
+  },
+  {
+    "id": 93,
+    "address": "172 North British Colony Boulevard #27",
+    "price": 9014063,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "type": null
+  },
+  {
+    "id": 94,
+    "address": "22690 West Hunters Hollow Garden #LPH-1",
+    "price": 9199166,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "type": "Townhouse"
+  },
+  {
+    "id": 95,
+    "address": "12763 South 33 STREET Trce #APT 2B",
+    "price": 7633393,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "type": null
+  },
+  {
+    "id": 96,
+    "address": "68385 North Giaramita Row #6A2",
+    "price": 9243871,
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 97,
+    "address": "46761 West Deep Step Meadow #M0606",
+    "price": 23507305,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 98,
+    "address": "63336 East EVERETT PL Mews #E-1002",
+    "price": 16194569,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "type": "Condominium"
+  },
+  {
+    "id": 99,
+    "address": "11416 North Tiger Horse Extension #783",
+    "price": 24266835,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 100,
+    "address": "36992 West Georgetown(lot 18) Boulevard #C 104",
+    "price": 6070556,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "type": "Condominium"
+  },
+  {
+    "id": 101,
+    "address": "28698 West Viewlake Knolls #2930",
+    "price": 2190359,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "type": "Townhouse"
+  },
+  {
+    "id": 102,
+    "address": "56585 South SW 368 ST& SW 214 AV Groves #6A2",
+    "price": 21445988,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "type": null
+  },
+  {
+    "id": 103,
+    "address": "14463 West 8710 GLEN ARBOR RD Trace #Upper",
+    "price": 13564260,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "type": "Condominium"
+  },
+  {
+    "id": 104,
+    "address": "55679 East Puette Link #27536",
+    "price": 6054541,
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "type": null
+  },
+  {
+    "id": 105,
+    "address": "52876 North Newark Blvd B Trace #2035",
+    "price": 18065342,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "type": "Townhouse"
+  },
+  {
+    "id": 106,
+    "address": "91910 East Somerset N. Knolls #783",
+    "price": 13717919,
+    "bedrooms": 4,
+    "bathrooms": 6,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 107,
+    "address": "86469 West Zenith Cliff #F16",
+    "price": 20683471,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 108,
+    "address": "84286 North Accors Ave. Creek #16-21",
+    "price": 4894911,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 109,
+    "address": "26532 North 240 Old River LN Fwy #Upper",
+    "price": 14008098,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 110,
+    "address": "30422 West Creek Mist Harbor #18393",
+    "price": 15959723,
+    "bedrooms": 6,
+    "bathrooms": 4,
+    "type": null
+  },
+  {
+    "id": 111,
+    "address": "70490 North FAIRHAVEN PL Creek #13906",
+    "price": 8958673,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 112,
+    "address": "1824 North EFFIE Circle #PH-G",
+    "price": 16742578,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 113,
+    "address": "32644 South DEERCLIFF Junction #B720 C",
+    "price": 2652197,
+    "bedrooms": 6,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 114,
+    "address": "18652 East CALLE SOL Row #527-2",
+    "price": 17997931,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "type": "Townhouse"
+  },
+  {
+    "id": 115,
+    "address": "10915 South Bannister Way Garden #A",
+    "price": 19237330,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 116,
+    "address": "23813 East Rush Creek Way Estates #16-21",
+    "price": 13809040,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "type": "Condominium"
+  },
+  {
+    "id": 117,
+    "address": "32904 East South Bayfront Junction #C 104",
+    "price": 15838148,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "type": null
+  },
+  {
+    "id": 118,
+    "address": "57691 West MAJESTY STREET Hts #3-1804",
+    "price": 24925949,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "type": null
+  },
+  {
+    "id": 119,
+    "address": "89419 North US HWY. 301 Pl #527-2",
+    "price": 21854919,
+    "bedrooms": 6,
+    "bathrooms": 6,
+    "type": "Condominium"
+  },
+  {
+    "id": 120,
+    "address": "70446 West ARABIAN WAY Oval #1765",
+    "price": 6219566,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "type": "Townhouse"
+  },
+  {
+    "id": 121,
+    "address": "31045 South Maggiore Ln. Row #APT 2B",
+    "price": 18879583,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "type": "SingleFamilyResidence"
+  },
+  {
+    "id": 122,
+    "address": "32738 South VISTA MADERA Lane #F16",
+    "price": 2893021,
+    "bedrooms": 2,
+    "bathrooms": 6,
+    "type": "Townhouse"
+  },
+  {
+    "id": 123,
+    "address": "30662 South Perry Hill Falls #205-C",
+    "price": 20128158,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "type": null
+  },
+  {
+    "id": 124,
+    "address": "76520 North MAXEY HILL Boulevard #1795",
+    "price": 9878825,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "type": "Townhouse"
+  },
+  {
+    "id": 125,
+    "address": "2976 North British Colony Lndg #12306",
+    "price": 17236623,
+    "bedrooms": 3,
+    "bathrooms": 5,
+    "type": "Townhouse"
+  },
+  {
+    "id": 126,
+    "address": "20349 North LOST SPRING Fwy #27536",
+    "price": 1066737,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "type": "Townhouse"
+  }
+]
